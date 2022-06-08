@@ -1,16 +1,11 @@
 # flutter_e_portfolio
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To participate you will need to install Flutter (https://docs.flutter.dev/get-started/install)
+I recommend the use of Visual Studio Code but you can use other IDEs when you are more familiar with them and they support flutter/dart.
+Please also set up a virtual or hardware device for testing your app.
+I recommend creating an emulated android device, which can be created in the AVD manager of Android Studio.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As a starting point for the practical programming part you can clone the master branch of this repository.
+You can also check out the solution branch when you have difficulties keeping up.
